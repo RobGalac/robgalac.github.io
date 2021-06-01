@@ -37,7 +37,7 @@ var t = null;
  * Rankings for all
  */
 
-var max_ranking = 130;
+var max_ranking = 115;
 
 // Scales
 var xAge = d3.scaleLinear()
@@ -539,7 +539,7 @@ function showRandomRanks() {
 
 
 function showCashier() {
-    highlightOcc("2172");
+    highlightOcc("2321");
     
     graphic.selectAll(".occlabel")
         .transition().duration(600)
@@ -584,7 +584,7 @@ function showRates() {
         .on("mousemove", function() {})
         .on("mouseout", function() {});
     
-    highlightOcc("2172");
+    highlightOcc("2321");
 }
 
 
@@ -612,10 +612,10 @@ function showRanksAgain() {
 
 
 function showManager() {
-    highlightOcc("5112");
+    highlightOcc("2322");
 }
 function showPhysician() {
-    highlightOcc("7611");
+    highlightOcc("2331");
 }
 function showAthlete() {
     graphic.selectAll(".occlabel")
@@ -623,14 +623,14 @@ function showAthlete() {
         .classed("highlight-partial", false);
         
     
-    highlightOcc("2271");
+    highlightOcc("2332");
 }
 function showDancer() {
     graphic.selectAll(".occlabel")
         .classed("highlight", false)
         .classed("highlight-partial", false);
     
-    highlightOcc("6112");
+    highlightOcc("2335");
 }
 
 
