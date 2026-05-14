@@ -8,5 +8,6 @@ Repositorio trabajos independientes
 <li><a href="https://iieg.gob.mx/ns/?page_id=13189">Precio gasolina</a></li>
 <li><a href="https://robgalac.github.io/ocup4toT20">Ocupaciones 4toT 2020.</a></li>
 <li><a href="https://robgalac.github.io/ocup4toT21">Ocupaciones 4toT 2021</a></li>
+<li><a href="https://robgalac.github.io/microeconomics/cap9/repaso-y-ejercicios.html">Ejercicios Elección Óptima y Curvas de Demanda</a></li>
 
 </ul>
