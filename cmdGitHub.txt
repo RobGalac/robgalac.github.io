@@ -1,5 +1,0 @@
-cd C:\Users\rober\OneDrive\Documents\GitHub\robgalac.github.io
-git add .
-git commit -m "Cambios git hub"
-git push
-cd ..\..
